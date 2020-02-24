@@ -8,7 +8,7 @@
 ## Instructions
 
 In this lab, we will be rendering a few children components in our top-most
-component: `App`. All of our work will be done in `src/App.js`, the rest of the
+component:install `App`. All of our work will be done in `src/App.js`, the rest of the
 components/source files shouldn't need any alterations.
 
 Begin with `npm install`. Examine what is rendering in the browser
